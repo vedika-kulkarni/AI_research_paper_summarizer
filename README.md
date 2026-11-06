@@ -1,6 +1,8 @@
 # AI Research Paper Summarizer 📄
 
 An intelligent Streamlit web application that transforms lengthy, complex research papers (PDFs) into digestible summaries, interactive flowcharts, and AI-powered insights.
+<img width="1459" height="790" alt="image" src="https://github.com/user-attachments/assets/de4fc134-8796-46b6-9c69-f677abf4887e" />
+
 
 ## ✨ Features
 
